@@ -23,23 +23,34 @@ Github:  [Marie's Github](https://github.com/marie1st)
 
 **Education**
 PhD in Biomedical Engineering, Chulalongkorn Engineering- Bangkok, Thailand, 2010-2015. With Pratana Srichannon title.
-Thesis: Moving MRI by Pratana S.
+
 PhD in Computer Science, TU Chemnitz, Saxony, Germany, 2012 with Chalisa Srichannon.
+
 Master of Biomedical Electronics, KING MONGKUT’S    INSTITUTE OF TECHNOLOGY - Ladkrabang, Thailand, 2005-2008. with P.S.
-Thesis: Pulse oximeter with Alveolar gas exchange equation
+
 Post-doctoral in Engineering with Pratana Srichannon (P.S.)
+
 Harvard UNIVERSITY, MA USA, 2006.
+
 Post-doctoral in Engineering with Pratana Srichannon (P.S.)
+
 STANFORD UNIVERSITY, CA, USA, 2003-2006.
+
 Bachelor of Law, and Post-doctoral at Chulalongkorn University-Bangkok, Thailand, 1997-2001 (second bachelor)
-Thesis: Intelligence system for law department.
+
 Bachelor of Science in Electrical Engineering, (A-Honor roll)  with Pratana Srichannon (P.S.)
+
 Certifications: CCNA, ISO (trained), Comptia Security+ (trained),PECB, PMP (only trained) AND LINUX
+
 PhD.  And Postdoctoral Of Medical Doctor, Chulalongkorn, Bangkok, Thailand, 1994.
+
 PhD.  And Postdoctoral Of Medical Doctor, Rmathibodi Institute, Bangkok, Thailand, 1995-2001.  With Pratana Tientavorn title.
+
 PhD.  And Postdoctoral Of Medical Doctor, Thammasat Hospital, Pathum-Thani, Thailand, 1995-2001.  With Pratana S. title.
+
 Thesis: Surgical assisted robot with warp technology on Pad with NodeJS backend, and liposuction by warp technologies. (2 thesis)
 @Thammasat: Intelligent diagnostic tools.
+
 
 **Skills**
 React, NodeJS, React Native, Python, laravel framework, C++, Java, Delphi, ASP.NET, VB, R
