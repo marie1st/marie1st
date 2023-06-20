@@ -9,26 +9,37 @@ marie1st/marie1st is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Mariebouquin Sriphanphet](https://files.fm/thumb.php?i=xnh85r9k5)
-**Mariebouquin Sriphanphet**
-*Brief introduction of me I'm A -, very healthy.*
- 
-I am a professor graduated postdoctorals in a field medical doctor, juristic doctor, engineering and computer sciences.
+![Mariepatek DeBeers]
+**Mariepatek DeBeers**
+*Brief introduction of me I'm A -.*
 
-I have a chance to play a leading role for distant learning project for Sukhothai Thammatirat while I was in 1st grade and 4th grade for 2 episodes.
+IT PROFESSIONAL AND SOFTWARE DEVELOPER was a Math Olympic Gold medal during 2-4 years old  at 4-5 years old I was a female gymnastic athletic, swimming athletic, tennis athletic to Russia to win Olympic Gold medal with assisted of my father to join the Olympic mathematical prove at University, finished High School by taking MENSA test and british council tests in Singapore, and going to Stanford University by standardized exam in Singapore.
 
 **Contact**
-Email:  [marie1st7880@gmail.com](mailto:marie1st7880@gmail.com)
-Mobile: +66885599053, +6583418884, +66837858973
-https://www.linkedin.com/in/marie-patek-sriphanphet-a90b55194/
+Email:  [mariepatek.philips@proton.me](mailto:mariepatek.philips@proton.me)
+Mobile: +66885599053, +66837858973
+https://www.linkedin.com/in/marie-patek-debeers-a90b55194/
 Github:  [Marie's Github](https://github.com/marie1st)
 
 **Education**
-KMITL
-M.Eng. Biomedical Electronics, 2008
-
-SIIT, Thammasat University
-B.Eng. Electrical Engineering, 2001
+PhD in Biomedical Engineering, Chulalongkorn Engineering- Bangkok, Thailand, 2010-2015. With Pratana Srichannon title.
+Thesis: Moving MRI by Pratana S.
+PhD in Computer Science, TU Chemnitz, Saxony, Germany, 2012 with Chalisa Srichannon.
+Master of Biomedical Electronics, KING MONGKUT’S    INSTITUTE OF TECHNOLOGY - Ladkrabang, Thailand, 2005-2008. with P.S.
+Thesis: Pulse oximeter with Alveolar gas exchange equation
+Post-doctoral in Engineering with Pratana Srichannon (P.S.)
+Harvard UNIVERSITY, MA USA, 2006.
+Post-doctoral in Engineering with Pratana Srichannon (P.S.)
+STANFORD UNIVERSITY, CA, USA, 2003-2006.
+Bachelor of Law, and Post-doctoral at Chulalongkorn University-Bangkok, Thailand, 1997-2001 (second bachelor)
+Thesis: Intelligence system for law department.
+Bachelor of Science in Electrical Engineering, (A-Honor roll)  with Pratana Srichannon (P.S.)
+Certifications: CCNA, ISO (trained), Comptia Security+ (trained),PECB, PMP (only trained) AND LINUX
+PhD.  And Postdoctoral Of Medical Doctor, Chulalongkorn, Bangkok, Thailand, 1994.
+PhD.  And Postdoctoral Of Medical Doctor, Rmathibodi Institute, Bangkok, Thailand, 1995-2001.  With Pratana Tientavorn title.
+PhD.  And Postdoctoral Of Medical Doctor, Thammasat Hospital, Pathum-Thani, Thailand, 1995-2001.  With Pratana S. title.
+Thesis: Surgical assisted robot with warp technology on Pad with NodeJS backend, and liposuction by warp technologies. (2 thesis)
+@Thammasat: Intelligent diagnostic tools.
 
 **Skills**
 React, NodeJS, React Native, Python, laravel framework, C++, Java, Delphi, ASP.NET, VB, R
