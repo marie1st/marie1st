@@ -18,7 +18,7 @@ IT PROFESSIONAL AND SOFTWARE DEVELOPER was a Math Olympic Gold medal during 2-4 
 **Contact**
 Email:  [mariepatek.philips@gmail.com]
 Mobile: +66885599053, +66837858973
-https://www.linkedin.com/in/marie-patek-debeers-a90b55194/
+[(https://www.linkedin.com/in/miss-mariepatek-dedeers-a90b55194/)]
 Github:  [Marie's Github](https://github.com/marie1st)
 
 **Education**
