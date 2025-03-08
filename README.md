@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 IT PROFESSIONAL AND SOFTWARE DEVELOPER was a Math Olympic Gold medal during 2-4 years old  at 4-5 years old I was a female gymnastic athletic, swimming athletic, tennis athletic to Russia to win Olympic Gold medal with assisted of my father to join the Olympic mathematical prove at University, finished High School by taking MENSA test and british council tests in Singapore, and going to Stanford University by standardized exam in Singapore.
 
 **Contact**
-Email:  [mariepatek.philips@proton.me](mailto:mariepatek.philips@proton.me)
+Email:  [mariepatek.philips@gmail.com]
 Mobile: +66885599053, +66837858973
 https://www.linkedin.com/in/marie-patek-debeers-a90b55194/
 Github:  [Marie's Github](https://github.com/marie1st)
