@@ -9,47 +9,24 @@ marie1st/marie1st is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Mariepatek DeBeers]
-**Mariepatek DeBeers**
+!Pratana Srichannon!
+**Pratana Srichannon**
 *Brief introduction of me I'm A -.*
 
-IT PROFESSIONAL AND SOFTWARE DEVELOPER was a Math Olympic Gold medal during 2-4 years old  at 4-5 years old I was a female gymnastic athletic, swimming athletic, tennis athletic to Russia to win Olympic Gold medal with assisted of my father to join the Olympic mathematical prove at University, finished High School by taking MENSA test and british council tests in Singapore, and going to Stanford University by standardized exam in Singapore.
+IT PROFESSIONAL AND SOFTWARE DEVELOPER. Now working actively as SA/BA working towards Solution Architecture and Solution Consultants.  I also have experiences as Project manager and business assistant manager for 7 years.
 
 **Contact**
 Email:  [mariepatek.philips@gmail.com]
-Mobile: +66885599053, +66837858973
-[(https://www.linkedin.com/in/miss-mariepatek-dedeers-a90b55194/)]
+Mobile: +66885599053
+[(https://www.linkedin.com/in/miss-pratana-srichannon-a90b55194/)]
 Github:  [Marie's Github](https://github.com/marie1st)
 
 **Education**
-PhD in Biomedical Engineering, Chulalongkorn Engineering- Bangkok, Thailand, 2010-2015. With Pratana Srichannon title.
 
-PhD in Computer Science, TU Chemnitz, Saxony, Germany, 2012 with Chalisa Srichannon.
+Master of Biomedical Electronics, KING MONGKUT’S    INSTITUTE OF TECHNOLOGY - Ladkrabang, Thailand, 2005-2008. 
+Bachelor of Electrical Engineering, Sirindhorn International Institute of Technology, Thammasat University, Thailand, 1997-2001
 
-Master of Biomedical Electronics, KING MONGKUT’S    INSTITUTE OF TECHNOLOGY - Ladkrabang, Thailand, 2005-2008. with P.S.
-
-Post-doctoral in Engineering with Pratana Srichannon (P.S.)
-
-Harvard UNIVERSITY, MA USA, 2006.
-
-Post-doctoral in Engineering with Pratana Srichannon (P.S.)
-
-STANFORD UNIVERSITY, CA, USA, 2003-2006.
-
-Bachelor of Law, and Post-doctoral at Chulalongkorn University-Bangkok, Thailand, 1997-2001 (second bachelor)
-
-Bachelor of Science in Electrical Engineering, (A-Honor roll)  with Pratana Srichannon (P.S.)
-
-Certifications: CCNA, ISO (trained), Comptia Security+ (trained),PECB, PMP (only trained) AND LINUX
-
-PhD.  And Postdoctoral Of Medical Doctor, Chulalongkorn, Bangkok, Thailand, 1994.
-
-PhD.  And Postdoctoral Of Medical Doctor, Rmathibodi Institute, Bangkok, Thailand, 1995-2001.  With Pratana Tientavorn title.
-
-PhD.  And Postdoctoral Of Medical Doctor, Thammasat Hospital, Pathum-Thani, Thailand, 1995-2001.  With Pratana S. title.
-
-Thesis: Surgical assisted robot with warp technology on Pad with NodeJS backend, and liposuction by warp technologies. (2 thesis)
-@Thammasat: Intelligent diagnostic tools.
+Certifications: CCNA, ISO27001 (trained), Comptia Security+ (trained),PECB, PMP (only trained), Business Analyst Basics, AWS Cloud Practitioner Essential, AND LINUX
 
 
 **Skills**
